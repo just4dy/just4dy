@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @just4dy --> ady
 - 👀 I’m interested in gaming
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ... nothing?
 - 📫 How to reach me: just try
 
